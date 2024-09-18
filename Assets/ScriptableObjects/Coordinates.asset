@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eba108a693547fb4f97db2aa102013e9, type: 3}
+  m_Name: Coordinates
+  m_EditorClassIdentifier: 
+  keys:
+  - p1DeckZone
+  - p1UnitZone1
+  - p1UnitZone2
+  - p1UnitZone3
+  - p1UnitZone4
+  - p1UnitZone5
+  - p1DiscardZone
+  - p1ExileZone
+  - p1PrismaticZone
+  - p1CombatZone
+  - p1HandZone
+  - p2DeckZone
+  - p2UnitZone1
+  - p2UnitZone2
+  - p2UnitZone3
+  - p2UnitZone4
+  - p2UnitZone5
+  - p2DiscardZone
+  - p2ExileZone
+  - p2PrismaticZone
+  - p2CombatZone
+  - p2HandZone
+  values:
+  - {x: -14, y: -8, z: -0.7}
+  - {x: -8, y: -6, z: -0.7}
+  - {x: -4, y: -6, z: -0.7}
+  - {x: 0, y: -6, z: -0.7}
+  - {x: 4, y: -6, z: -0.7}
+  - {x: 8, y: -6, z: -0.7}
+  - {x: 14, y: -3, z: -0.7}
+  - {x: 18, y: -1, z: -0.7}
+  - {x: 16, y: -8, z: -0.7}
+  - {x: -8, y: -2, z: -0.7}
+  - {x: -4, y: -20, z: -0.7}
+  - {x: 14, y: 8, z: -0.7}
+  - {x: -8, y: 6, z: -0.7}
+  - {x: -4, y: 6, z: -0.7}
+  - {x: 0, y: 6, z: -0.7}
+  - {x: 4, y: 6, z: -0.7}
+  - {x: 8, y: 6, z: -0.7}
+  - {x: -14, y: 3, z: -0.7}
+  - {x: -18, y: 1, z: -0.7}
+  - {x: -16, y: 8, z: -0.7}
+  - {x: -8, y: 2, z: -0.7}
+  - {x: -4, y: 20, z: -0.7}

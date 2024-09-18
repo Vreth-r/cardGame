@@ -10,14 +10,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8e8edbd36f43d5046b5c4e5405075272, type: 3}
-  m_Name: New Card Database
+  m_Name: CardDB
   m_EditorClassIdentifier: 
-  cards:
-  - id: 0
-    cardName: Neco-Arc
-    cost: 10
-    attackPoints: 9
-    healthPoints: 3
-    description: International terrorist.
-    artwork: {fileID: 0}
-    cardType: 0
+  cards: []
